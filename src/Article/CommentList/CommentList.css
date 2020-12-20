@@ -1,0 +1,7 @@
+.CommentList {
+	background-color: #a8dadc;
+	padding-top: 5px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}

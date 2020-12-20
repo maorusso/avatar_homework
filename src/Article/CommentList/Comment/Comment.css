@@ -1,0 +1,9 @@
+.Comment {
+	background-color: #e63946;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.Comment h4 {
+	color: #1d3557;
+}
